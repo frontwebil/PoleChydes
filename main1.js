@@ -48,4 +48,6 @@ while (remain>0) {
 
 }
 
-alert("Ви вгадали слово" , slovo);
+let congr = "Ви вгадали слово: "+slovo;
+
+alert(congr);
